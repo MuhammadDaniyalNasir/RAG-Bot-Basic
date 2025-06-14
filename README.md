@@ -182,13 +182,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [HuggingFace](https://huggingface.co/) for embeddings models
 - [FAISS](https://github.com/facebookresearch/faiss) for vector search
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Check the [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
-- Review the [API Reference](docs/API_REFERENCE.md)
-
 ---
 
 **Happy Chatting! 🤖💬**
